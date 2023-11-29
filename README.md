@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 
 
 <h3> Im Inhee Cho, a first grade in big data management at Dongyang Future University</h3>
+<h2>I can do this . . .</h2>
+<h3>00.R programing<br>
+    01.Exel<br>
+    02.Python<br>
+    03.Orange 3 <br>
+    04.Git hub<br>
+    05.My Sql<br>
+    06.PPT</h3>
+
