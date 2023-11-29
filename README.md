@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<h3> 'Im Inhee Cho, a first grade in big data management at Dongyang Future University' </h3>
+<h3> Im Inhee Cho, a first grade in big data management at Dongyang Future University</h3>
