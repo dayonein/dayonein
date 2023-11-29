@@ -1,4 +1,4 @@
-### Hi there 👋
+### WELLCOME, 👋
 
 <!--
 **dayonein/dayonein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-h4 {background-color: black;}
 
-<h3> ' </h3>
+<h3> 'Im Inhee Cho, a first grade in big data management at Dongyang Future University' </h3>
