@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<STYLE type="text/css">
- .font7 {font-size: 14pt;}
- .font8 {font-size: 80%;}
-</STYLE>
+h4 {background-color: black;}
 
-<table><tr>
- <td class=font7>font-size 14pt 지정</td>
- <td class=font8>font-size 80% 지정</td>
-</tr></table>
-
-<h1> "안녕하세요" </h1>
+<h3> ' </h3>
