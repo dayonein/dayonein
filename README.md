@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <h3> Im Inhee Cho, a first grade in big data management at Dongyang Future University</h3>
 
-<img src = "https://img.shields.io/badge/Python-white?style=social&logo=Python&logoColor = {3776AB}"/>
+<img src = "https://img.shields.io/badge/R-lightgray?style=for-the-badge&logo=R&logoColor = {276DC3}"/>
 <img src = "https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor = {3776AB}"/>
-<img src = "https://img.shields.io/badge/{github}--{black}?style={ }&logo{github}&logoColor = {white}"/>
+
