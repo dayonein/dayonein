@@ -2,7 +2,7 @@
 
 <!--
 **dayonein/dayonein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
+!-->
 
 <h3> I'm Inhee Cho, a first grade in big data management at Dongyang Future University</h3><br>
 <br>
