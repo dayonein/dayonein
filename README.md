@@ -15,8 +15,7 @@
 
 <h2>My skill</h2>
 <br>
-<img src = "https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor = {3776AB}"/>
-<img src = "https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor = {F7DF1E}"/>
+<img src = "https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor = {3776AB}" /> <img src = "https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor = {F7DF1E}"/>
 <img src = "https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor = {181717}"/>
 <img src = "https://img.shields.io/badge/Rstudio-white?style=for-the-badge&logo=Rstudio&logoColor = {75AADB}"/>
 <img src = "https://img.shields.io/badge/Adobephotoshop-white?style=for-the-badge&logo=Adobephotoshop&logoColor = {31A8FF}"/>
