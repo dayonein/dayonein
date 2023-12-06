@@ -12,8 +12,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayonein&layout=compact&theme=tokyonight)
 
 <br>
-<img src = "https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor = {3776AB}"/>
-<img src = "https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor = {F7DF1E}"/>
-<img src = "https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor = {181717}"/>
+<img src = "https://img.shields.io/badge/Python-skyblue?style=for-the-badge&logo=Python&logoColor = {3776AB}"/>
+<img src = "https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor = {F7DF1E}"/>
+<img src = "https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor = {181717}"/>
 
 <br>
