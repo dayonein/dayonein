@@ -7,9 +7,6 @@
 <h3> I'm Inhee Cho, a first grade in big data management at Dongyang Future University</h3><br>
 <br>
 
-<h2>My hobby</h2>
-<br>
-<img src = "https://img.shields.io/badge/Valorant-white?style=for-the-badge&logo=Valorant&logoColor = {#FA4454}"/>
  
 <h2>My skill</h2>
 <br>
