@@ -10,7 +10,7 @@
 <h2>My hobby</h2>
 <br>
 <img src = "https://img.shields.io/badge/Valorant-white?style=for-the-badge&logo=Valorant&logoColor = {#FA4454}"/>
-
+ 
 <h2>My skill</h2>
 <br>
 <img src = "https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor = {3776AB}" /> <img src = "https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor = {F7DF1E}"/>
