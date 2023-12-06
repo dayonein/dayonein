@@ -7,11 +7,9 @@
 <h3> I'm Inhee Cho, a first grade in big data management at Dongyang Future University</h3><br>
 <br>
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayonein&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayonein&layout=compact&theme=tokyonight)
+<h2>My hobby</h2>
 <br>
-<br>
+<img src = "https://img.shields.io/badge/Valorant-white?style=for-the-badge&logo=Valorant&logoColor = {#FA4454}"/>
 
 <h2>My skill</h2>
 <br>
@@ -22,6 +20,12 @@
 <img src = "https://img.shields.io/badge/Mysql-white?style=for-the-badge&logo=Mysql&logoColor = {4479A1}"/>
 <br>
 
-<h2>My hobby</h2>
 <br>
-<img src = "https://img.shields.io/badge/Valorant-white?style=for-the-badge&logo=Valorant&logoColor = {#FA4454}"/>
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayonein&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayonein&layout=compact&theme=tokyonight)
+
+
+
+
