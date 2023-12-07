@@ -10,19 +10,21 @@
  
 <h2>My skill</h2>
 <br>
-<img src = "https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor = {3776AB}" /> <img src = "https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor = {F7DF1E}"/>
+<img src = "https://img.shields.io/badge/Python-white?style=for-the-badg
+ e&logo=Python&logoColor = {3776AB}" /> <img src = "https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor = {F7DF1E}"/>
 <img src = "https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor = {181717}"/>
 <img src = "https://img.shields.io/badge/Rstudio-white?style=for-the-badge&logo=Rstudio&logoColor = {75AADB}"/>
 <img src = "https://img.shields.io/badge/Adobephotoshop-white?style=for-the-badge&logo=Adobephotoshop&logoColor = {31A8FF}"/>
 <img src = "https://img.shields.io/badge/Mysql-white?style=for-the-badge&logo=Mysql&logoColor = {4479A1}"/>
 <br>
 
-<br>
+<h2>Page</h2>
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/당신의_인스타그램_계정(https://blog.naver.com/whk001/222186651752)/)
+
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayonein&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayonein&layout=compact&theme=tokyonight)
-
-
 
 
