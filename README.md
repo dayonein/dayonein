@@ -1,3 +1,5 @@
+
+
 # WELCOME, :slightly_smiling_face:
  
 <!--
@@ -6,8 +8,8 @@
 
 <h3> I'm Inhee Cho, a first grade in big data management at Dongyang Future University</h3><br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayonein&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayonein&layout=compact&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayonein&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayonein&layout=compact&theme=tokyonight) <img src="https://littledeep.com/wp-content/uploads/2019/05/littledeep_computer_style2.png" width="200px">
+
 
 <h2>My skill</h2>
 
@@ -16,7 +18,10 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/?hl=ko](https://www.instagram.com/inhyi5420/?hl=ko))
 [![Email](https://img.shields.io/badge/Email-inheecho%40dongyang.ac.kr-blue?style=for-the-badge)](mailto:inheecho@dongyang.ac.kr)
 
-<img src="https://littledeep.com/wp-content/uploads/2019/05/littledeep_computer_style2.png" width="200px">
+
+
+
+
 
 
 
