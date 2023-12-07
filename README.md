@@ -8,7 +8,10 @@
 
 <h3> I'm Inhee Cho, a first grade in big data management at Dongyang Future University</h3><br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayonein&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayonein&layout=compact&theme=tokyonight) <img src="https://littledeep.com/wp-content/uploads/2019/05/littledeep_computer_style2.png" width="200px">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayonein&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayonein&layout=compact&theme=tokyonight)
+
 
 
 <h2>My skill</h2>
