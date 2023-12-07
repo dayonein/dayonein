@@ -20,8 +20,9 @@
 
 <h2>Page</h2>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/당신의_인스타그램_계정(https://blog.naver.com/whk001/222186651752)/)
+# 📸 Instagram
 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/?hl=ko](https://www.instagram.com/inhyi5420/?hl=ko))
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayonein&show_icons=true&theme=dark)
