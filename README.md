@@ -16,7 +16,7 @@
 
 <h2>My skill</h2>
 
-<img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=181717" /> <img src="https://img.shields.io/badge/RStudio-white?style=for-the-badge&logo=Rstudio&logoColor=75AADB" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-white?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF" /> <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=181717" /> <img src="https://img.shields.io/badge/RStudio-white?style=for-the-badge&logo=Rstudio&logoColor=75AADB" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-white?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF" /> 
 <br>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/?hl=ko](https://www.instagram.com/inhyi5420/?hl=ko))
 [![Email](https://img.shields.io/badge/Email-inheecho%40dongyang.ac.kr-blue?style=for-the-badge)](mailto:inheecho@dongyang.ac.kr)
